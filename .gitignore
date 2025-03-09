@@ -10,7 +10,11 @@
 Packages/com.unity.package-manager/
 Library/PackageCache/
 
+!Packages/manifest.json
 
+
+.vs/
+.idea/
 *.csproj
 *.sln
 *.user
@@ -19,3 +23,7 @@ Library/PackageCache/
 *.svd
 *.opendb
 *.VC.db
+
+
+*.pidb.meta
+*.pdb.meta
